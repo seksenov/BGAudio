@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UQNDEAN</Machine>
+    <WindowsUser>kiseksen</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d0e595e4-4b5e-4ad4-880c-f8689483bd5a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\js\audio.js">
+      <PackagePath>js\audio.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\js\global.js">
+      <PackagePath>js\global.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\js\messages.js">
+      <PackagePath>js\messages.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\Media\Assets\Fragile.mp3">
+      <PackagePath>Media\Assets\Fragile.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\Media\Assets\k.m4a">
+      <PackagePath>Media\Assets\k.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\Media\Assets\Perfect.m4a">
+      <PackagePath>Media\Assets\Perfect.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

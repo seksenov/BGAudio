@@ -1,0 +1,32 @@
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bin\Debug\ReverseMap\resources.pri
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bin\Debug\AppxManifest.xml
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bin\Debug\BGAudio.build.appxrecipe
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\ResourceHandlingTask.state
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\priconfig.xml
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\priconfig.xml.intermediate
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\layout.resfiles
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\layout.resfiles.intermediate
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\resources.resfiles
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\resources.resfiles.intermediate
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\pri.resfiles
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\pri.resfiles.intermediate
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\qualifiers.txt
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\qualifiers.txt.intermediate
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\cayildir\documents\visual studio 2015\Projects\BGAudio\BGAudio\bld\Debug\ProjectArchitectures.txt
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bin\Debug\ReverseMap\resources.pri
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bin\Debug\AppxManifest.xml
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bin\Debug\BGAudio.build.appxrecipe
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\ResourceHandlingTask.state
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\priconfig.xml
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\priconfig.xml.intermediate
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\layout.resfiles
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\layout.resfiles.intermediate
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\resources.resfiles
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\resources.resfiles.intermediate
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\pri.resfiles
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\pri.resfiles.intermediate
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\qualifiers.txt
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\qualifiers.txt.intermediate
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kiseksen\Documents\BGAudio\BGAudio\BGAudio\bld\Debug\ProjectArchitectures.txt
